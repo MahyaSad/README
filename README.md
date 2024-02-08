@@ -5,7 +5,7 @@ Hello and thank you for visiting my profile. My name is Mahya Ghazi Zadeh Hashem
 
 ### My PhD Research
 
-Initiated in September 2021 under the mentorship of Dr. Narendra Das, my doctoral research focuses on crop classification, monitoring, and yield prediction utilizing SAR and AI techniques. A highlight of my work includes developing an analytical time series analysis algorithm in Python for estimating rice-paddy planting dates using Sentinel-1 data. This project enhanced the RHEAS framework for the NASA-SERVIR Project, integrating SAR-derived planting dates into the DSSAT crop model to improve rice yield estimation accuracy in Cambodia. This significant contribution was recognized and published in a peer-reviewed journal in 2022.
+Initiated in September 2021, my doctoral research focuses on crop classification, monitoring, and yield prediction utilizing SAR and AI techniques. A highlight of my work includes developing an analytical time series analysis algorithm in Python for estimating rice-paddy planting dates using Sentinel-1 data. This project enhanced the RHEAS framework for the NASA-SERVIR Project, integrating SAR-derived planting dates into the DSSAT crop model to improve rice yield estimation accuracy in Cambodia. This significant contribution was recognized and published in a peer-reviewed journal in 2022.
 
 Moreover, my systematic literature review titled "Deep Learning and SAR in Agriculture" is under review at the ISPRS Journal of Photogrammetry and Remote Sensing. This review not only synthesizes the latest advancements in the field but also reflects my deepened expertise in machine learning and deep learning, essential for advancing crop monitoring and yield estimation.
 
