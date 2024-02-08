@@ -44,4 +44,3 @@ Thank you for exploring my GitHub profile. I am excited about the potential coll
 Feel free to reach out to me for collaborations, discussions, or any inquiries related to my work.
 
 - 📧 Email: mahya@msu.edu
-- 📞 Phone: (517) 303-0147
