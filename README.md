@@ -1,7 +1,7 @@
 # README
 # Welcome to My GitHub Profile!
 
-Hello and thank you for visiting my profile. My name is Mahya Ghazi Zadeh Hashemi, a Ph.D. candidate deeply immersed in the fascinating world of remote sensing and artificial intelligence, with a focus on agricultural applications. My journey in academia and research has been a blend of rigorous study, innovative project execution, and meaningful collaborations. I am eagerly looking forward to graduating in October 2024 and exploring opportunities that lie in the intersection of technology and environmental science.
+Hello and thank you for visiting my profile. My name is Mahya Ghazi Zadeh Hashemi, a Ph.D. candidate deeply immersed in the fascinating world of remote sensing and artificial intelligence, with a focus on agricultural applications. My journey in academia and research has been a blend of rigorous study, innovative project execution, and meaningful collaborations. 
 
 ## About Me
 
