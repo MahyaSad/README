@@ -16,8 +16,6 @@ Currently, I am exploring Volumetric Water Content (VWC) estimation using machin
 
 ### Looking Forward
 
-My experiences and skills span across SAR data analysis, AI-driven agricultural monitoring, and land surface modeling. Although my primary research has not centered on land surface modeling, my academic coursework and projects have equipped me with a solid foundation in this area, particularly through the application of the CLM5 model.
-
 I am on the lookout for collaborative opportunities that leverage my background in remote sensing, AI, and environmental modeling to make a tangible impact on global water and energy cycle research.
 
 Thank you for exploring my GitHub profile. I am excited about the potential collaborations and projects that await and am keen to contribute to groundbreaking research that addresses the world's most pressing environmental challenges.
