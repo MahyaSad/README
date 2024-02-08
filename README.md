@@ -30,9 +30,8 @@ My work in leveraging ML and DL for agricultural management is a testament to th
 
 ### Fieldwork and Collaborations
 
-Addressing the scarcity of data in crop phenology and biophysical parameters estimation, I undertook field measurements in Michigan during the summers of 2022 and 2023. My involvement with the NISAR calibration-validation field campaign in summer 2024 in Michigan marks another step towards pioneering research in deep learning and SAR for yield estimation. My paper, under review in 'Computers and Electronics in Agriculture', introduces patch-based 3D Convolutional Neural Networks for estimating crop yield using SAR observations.
+Addressing the scarcity of data in crop phenology and biophysical parameters estimation, I undertook field measurements in Michigan during the summers of 2022 and 2023. My involvement with the NISAR calibration-validation field campaign in summer 2024 in Michigan marks another step towards pioneering research in deep learning and SAR for yield estimation. 
 
-Currently, I am exploring Volumetric Water Content (VWC) estimation using machine learning techniques and foundational SAR backscatter models with Sentinel-1 and NISAR data. This work aims to refine VWC estimation methods and assess their impact on SMAP soil moisture retrieval algorithms, potentially offering improvements over existing approaches.
 
 ### Looking Forward
 
