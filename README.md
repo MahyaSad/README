@@ -3,10 +3,6 @@
 
 Hello and thank you for visiting my profile. My name is Mahya Ghazi Zadeh Hashemi, a Ph.D. candidate deeply immersed in the fascinating world of remote sensing and artificial intelligence, with a focus on agricultural applications. My journey in academia and research has been a blend of rigorous study, innovative project execution, and meaningful collaborations. 
 
-## About Me
-
-Last weekend, I had the pleasure of spending an afternoon with a colleague and his family, which not only enriched my personal life but also opened up an exciting avenue for professional collaboration. I learned that our research interests, particularly in the realm of remote sensing and AI, align closely. This serendipitous discovery has prompted me to reach out for potential collaboration opportunities, possibly for a postdoctoral position at NASA Goddard Space Center or co-authoring an upcoming paper.
-
 ### My PhD Research
 
 Initiated in September 2021 under the mentorship of Dr. Narendra Das, my doctoral research focuses on crop classification, monitoring, and yield prediction utilizing SAR and AI techniques. A highlight of my work includes developing an analytical time series analysis algorithm in Python for estimating rice-paddy planting dates using Sentinel-1 data. This project enhanced the RHEAS framework for the NASA-SERVIR Project, integrating SAR-derived planting dates into the DSSAT crop model to improve rice yield estimation accuracy in Cambodia. This significant contribution was recognized and published in a peer-reviewed journal in 2022.
